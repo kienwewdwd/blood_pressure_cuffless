@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "377121621433",
+    "firebase_url": "https://blood-pressure-a3556-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "blood-pressure-a3556",
+    "storage_bucket": "blood-pressure-a3556.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:377121621433:android:99f63fac676e3f67036268",
+        "android_client_info": {
+          "package_name": "com.example.blood_pressure"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "377121621433-gg2ahlorsmgqtbmalnme6otq8h5l3gjm.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDHxncjhhu11i9_7gKqZaE7MMQsvZ4WDUc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "377121621433-gg2ahlorsmgqtbmalnme6otq8h5l3gjm.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
